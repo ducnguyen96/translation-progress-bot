@@ -34,7 +34,7 @@ const findTaskByName = (tasks, name) => {
  */
 module.exports = (app) => {
   const ISSUE_TITLE = "Translation Progress";
-  const ISSUE_NUMBER = 2;
+  const ISSUE_NUMBER = 3;
   /**
    * On each comment created: EventTypesPayload
    *
